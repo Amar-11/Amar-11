@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amar-11
-- 👀 I’m interested in ... java,github and many programing language .
-- 🌱 I’m currently learning ...java , git & github 
+- 👀 I’m interested in ... java, full stack web devlopment and github and many programing language .
+- 🌱 I’m currently learning ...java ,  html css js node js php react git & github 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
